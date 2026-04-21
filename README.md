@@ -57,7 +57,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
+## 📈 Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=QuocTrung-2003&show_icons=true&theme=aura&hide_border=false" width="380px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuocTrung-2003&theme=aura&hide_border=false" width="402px"/> </p>
