@@ -1,14 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,100:38bdf8&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,100:38bdf8&height=200&section=header"/>
+
+# My name Trung
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Engineer" />
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=400&lines=Data+Engineer" />
-
-</div>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -49,7 +44,7 @@
 ## 📈 Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=QuocTrung-2003&show_icons=true&theme=aura&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=QuocTrung-2003&show_icons=true&theme=aura&rank_icon=github&border_radius=10&show=reviews,discussions&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuocTrung-2003&theme=aura&hide_border=true" height="150"/>
 </p>
 
